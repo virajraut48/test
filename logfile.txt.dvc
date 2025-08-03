@@ -1,0 +1,5 @@
+outs:
+- md5: fcb75070a5fb775a14da6e24bd2b2792
+  size: 60
+  hash: md5
+  path: logfile.txt
